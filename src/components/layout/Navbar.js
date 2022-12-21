@@ -7,7 +7,7 @@ function Navbar() {
     return (
         <nav className={styles.navbar}>
             <Container>
-                <Link to='/'><img src={logo}></img></Link>
+                <Link to='/'><img src={logo} alt="Logo"></img></Link>
                 <ul className={styles.list}>
                     <li className={styles.item}><Link to='/'>Home</Link></li>
                     <li className={styles.item}><Link to='/projects'>Projetos</Link></li>

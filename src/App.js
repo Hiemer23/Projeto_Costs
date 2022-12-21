@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from "./components/pages/Home";
 import Company from "./components/pages/Company";
 import Contact from "./components/pages/Contact";
@@ -20,6 +20,7 @@ function App() {
           <Route path="/company" element={<Company />}></Route>
           <Route path="/contact" element={<Contact />}></Route>
           <Route path="/projects" element={<Projects />}></Route>
+          <Route path="/newproject" element={<NewProject />}></Route>
         </Routes>
       </Container>
       <Footer />
