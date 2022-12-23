@@ -7,25 +7,13 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 255,
+      "cost": 1231,
       "services": [
         {
-          "name": "A",
-          "cost": "12",
-          "description": "aa",
-          "id": "771031dd-d220-4ad4-b685-e4cdbdb03c6f"
-        },
-        {
-          "name": "asdasd",
-          "cost": "120",
-          "description": "30",
-          "id": "a0125084-1262-4081-8eda-f0d54c8551b0"
-        },
-        {
-          "name": "asdasd",
-          "cost": "123",
-          "description": "dasdasdsad",
-          "id": "2b08584d-1260-4b0a-8f53-d128511ad09c"
+          "name": "asdfasdf",
+          "cost": "1231",
+          "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa         aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "id": "64d41872-6422-4703-a4a9-e79b97a9e0c6"
         }
       ],
       "id": 2
@@ -37,21 +25,8 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 500,
-      "services": [
-        {
-          "name": "asdasd",
-          "cost": "450",
-          "description": "Alou",
-          "id": "6d7d2158-d89b-49d7-a628-d94886867695"
-        },
-        {
-          "name": "asdsad",
-          "cost": "50",
-          "description": "asda",
-          "id": "5927c32a-3ff1-4aca-9699-7e77bddb6679"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 3
     }
   ],
