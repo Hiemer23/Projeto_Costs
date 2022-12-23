@@ -11,7 +11,7 @@ function Projects() {
 
     const [projects, setProjects] = useState([])
     const [removeLoading, setRemoveLoading] = useState(false)
-    const[projectMessage,setProjectMessage] = useState('')
+    const [projectMessage, setProjectMessage] = useState('')
 
     const location = useLocation()
     let message = ''

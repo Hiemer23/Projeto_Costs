@@ -1,25 +1,33 @@
 {
   "projects": [
     {
-      "name": "Andrey",
-      "budget": "232",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
       "name": "asdasd",
       "budget": "2323",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 255,
+      "services": [
+        {
+          "name": "A",
+          "cost": "12",
+          "description": "aa",
+          "id": "771031dd-d220-4ad4-b685-e4cdbdb03c6f"
+        },
+        {
+          "name": "asdasd",
+          "cost": "120",
+          "description": "30",
+          "id": "a0125084-1262-4081-8eda-f0d54c8551b0"
+        },
+        {
+          "name": "asdasd",
+          "cost": "123",
+          "description": "dasdasdsad",
+          "id": "2b08584d-1260-4b0a-8f53-d128511ad09c"
+        }
+      ],
       "id": 2
     },
     {
